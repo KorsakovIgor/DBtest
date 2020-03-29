@@ -1,0 +1,15 @@
+Q:\VSProject\DBtest\DBtest\bin\Debug\DBtest.exe.config
+Q:\VSProject\DBtest\DBtest\bin\Debug\DBtest.exe
+Q:\VSProject\DBtest\DBtest\bin\Debug\DBtest.pdb
+Q:\VSProject\DBtest\DBtest\bin\Debug\EntityFramework.dll
+Q:\VSProject\DBtest\DBtest\bin\Debug\EntityFramework.SqlServer.dll
+Q:\VSProject\DBtest\DBtest\bin\Debug\EntityFramework.xml
+Q:\VSProject\DBtest\DBtest\bin\Debug\EntityFramework.SqlServer.xml
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.csprojAssemblyReference.cache
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.Form1.resources
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.Properties.Resources.resources
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.csproj.GenerateResource.cache
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.csproj.CoreCompileInputs.cache
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.csproj.CopyComplete
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.exe
+Q:\VSProject\DBtest\DBtest\obj\Debug\DBtest.pdb
